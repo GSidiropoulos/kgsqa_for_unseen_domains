@@ -1,0 +1,9 @@
+gensim
+nltk
+pandas
+scikit-learn
+spacy
+tensorflow-gpu==1.9.0
+keras==2.2.0
+git+https://www.github.com/keras-team/keras-contrib.git
+
