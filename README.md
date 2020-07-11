@@ -116,10 +116,12 @@ QA accuracy w.r.t the predicted object and w.r.t the predicted (subject, relatio
 ## Citation
 If you find this work helpful or use it in your own work, please cite our paper. 
 ```
-@inproceedings{sidiropoulos2020knowledge,
-  title={Knowledge Graph Simple Question Answering for Unseen Domains},
-  author={Sidiropoulos, Georgios and Voskarides, Nikos and Kanoulas, Evangelos},
-  booktitle={Automated Knowledge Base Construction},
-  year={2020}
+@inproceedings{
+sidiropoulos2020knowledge,
+title={Knowledge Graph Simple Question Answering for Unseen Domains},
+author={Georgios Sidiropoulos and Nikos Voskarides and Evangelos Kanoulas},
+booktitle={Automated Knowledge Base Construction},
+year={2020},
+url={https://openreview.net/forum?id=Ie2Y94Ty8K}
 }
 ```
