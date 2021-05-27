@@ -122,6 +122,7 @@ title={Knowledge Graph Simple Question Answering for Unseen Domains},
 author={Georgios Sidiropoulos and Nikos Voskarides and Evangelos Kanoulas},
 booktitle={Automated Knowledge Base Construction},
 year={2020},
-url={https://openreview.net/forum?id=Ie2Y94Ty8K}
+url={https://openreview.net/forum?id=Ie2Y94Ty8K},
+doi={10.24432/C5H01X}
 }
 ```
