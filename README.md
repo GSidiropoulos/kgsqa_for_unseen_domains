@@ -126,3 +126,6 @@ url={https://openreview.net/forum?id=Ie2Y94Ty8K},
 doi={10.24432/C5H01X}
 }
 ```
+
+## Questions
+If you have any questions, please contact [Georgios Sidiropoulos](mailto:gn.sidiro@yahoo.com).
